@@ -2,7 +2,7 @@
   "name": "lezama-api",
   "version": "1.0.0",
   "description": "Valorant API",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "devStart": "nodemon server.js"
   },
